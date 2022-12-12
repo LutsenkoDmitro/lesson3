@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a00b1095-1a7a-4fc0-a297-d31e30b0fe97" name="Changes" comment="" />
+    <list default="true" id="a00b1095-1a7a-4fc0-a297-d31e30b0fe97" name="Changes" comment="edit contact page">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson3/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson3/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,6 +22,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -89,8 +97,16 @@
       <workItem from="1670867592948" duration="2045000" />
       <workItem from="1670869673051" duration="625000" />
       <workItem from="1670870312136" duration="584000" />
-      <workItem from="1670870909150" duration="434000" />
+      <workItem from="1670870909150" duration="1050000" />
     </task>
+    <task id="LOCAL-00001" summary="edit contact page">
+      <created>1670871558175</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1670871558175</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -106,6 +122,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="edit contact page" />
+    <option name="LAST_COMMIT_MESSAGE" value="edit contact page" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
