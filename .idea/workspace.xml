@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a00b1095-1a7a-4fc0-a297-d31e30b0fe97" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/Hillel.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
-    </list>
+    <list default="true" id="a00b1095-1a7a-4fc0-a297-d31e30b0fe97" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -94,6 +89,7 @@
       <workItem from="1670867592948" duration="2045000" />
       <workItem from="1670869673051" duration="625000" />
       <workItem from="1670870312136" duration="584000" />
+      <workItem from="1670870909150" duration="434000" />
     </task>
     <servers />
   </component>
