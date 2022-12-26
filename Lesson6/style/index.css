@@ -1,0 +1,92 @@
+@import "common.css";
+p {
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 23px;
+    line-height: 36px;
+    color: #000000;
+    text-align: center;
+    text-transform: uppercase;
+    margin-top: 79px;
+}
+h1 {
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 20px;
+    text-align: center;
+    margin-top: 20px;
+    text-transform: uppercase;
+}
+h2 {
+    font-family: Vollcorn;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+    text-align: center;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    white-space: nowrap;
+    margin-top: 6px;
+}
+h3 {
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 10px;
+    line-height: 20px;
+    text-align: center;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    white-space: nowrap;
+    margin-top: 6px;
+    color: lightslategray;
+}
+img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+.text {
+    padding: 0 8px 18px;
+}
+.container {
+    max-width: 1050px;
+    margin: 0 auto;
+    text-align: center;
+    margin-top: 43px;
+}
+.card {
+    width: 220px;
+    text-align: center;
+    margin-right: 20px;
+    height: 100%;
+    display: inline-block;
+}
+.card img {
+    height: 220px;
+}
+.hr {
+    background: rgba(0, 0, 0, 0.09);
+    margin: 28px auto 43px auto;
+    height: 2px;
+    width: 80px;
+}
+
+.icons-wrapper img {
+    width: auto;
+    height: auto;
+
+}
+.icons-wrapper a {
+    height: 14px;
+    width: 29px;
+    padding: 0 6px;
+    background: #F5F5F5;
+    margin-right: 6px;
+    margin-top: 29px;
+
+}
