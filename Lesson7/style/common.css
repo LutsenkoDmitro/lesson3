@@ -30,3 +30,7 @@ h1,h2,h3 {
     line-height: 20px;
     color: #000000;
 }
+.container {
+    max-width: 940px;
+    margin 0 auto;
+}

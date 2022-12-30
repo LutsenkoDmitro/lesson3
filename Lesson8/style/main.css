@@ -1,0 +1,34 @@
+a {
+    background-image: url(/images/sprites2.png);
+    background-repeat: no-repeat;
+    height: 98px;
+    width: 100px;
+    display: inline-block;
+    margin-right: 10px;
+    transition: all 0.3s;
+}
+a.facebook {
+     background-position: -200px top;
+ }
+a.twitter {
+    background-position: -100px top;
+}
+a.youtube {
+    background-position: -300px top;
+}
+a.instagram {
+    background-position: -400px top;
+}
+a.linkedin {
+    background-position: -500px top;
+}
+a.tumblr {
+    background-position: -600px top;
+}
+a.google {
+    background-position: -700px top;
+}
+a:hover {
+    background-position-y: bottom;
+
+}
